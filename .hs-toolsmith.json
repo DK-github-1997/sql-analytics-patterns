@@ -1,0 +1,13 @@
+{
+  "hsToolsmith": true,
+  "title": "sql-analytics-patterns",
+  "pitch": "Reusable, tested SQL templates for analytic windowing, cohorting, and KPI reporting.",
+  "language": "python",
+  "category": "Data Processing",
+  "keyFeatures": [
+    "Dialect-aware SQL template rendering (Oracle vs Redshift differences)",
+    "Reference datasets + golden-query tests to prevent KPI regressions",
+    "Packaged patterns: RFM, basket analysis, cohorts, retention, rolling-window KPIs"
+  ],
+  "targetUsers": "Analytics engineers and BI developers who repeatedly implement the same reporting logic across Oracle and Redshift."
+}
