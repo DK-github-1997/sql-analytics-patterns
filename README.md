@@ -1,6 +1,6 @@
 # sql_analytics_patterns
 
-Reusable, tested SQL templates for analytic windowing, cohorting, and KPI reporting.
+Reusable, tested SQL templates for analytic windowing, cohorting, and KPI reporting....
 
 ## Installation
 
