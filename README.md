@@ -4,7 +4,7 @@ Reusable, tested SQL templates for analytic windowing, cohorting, and KPI report
 
 ## Installation
 
-```bash
+```bash 
 pip install sql_analytics_patterns
 ```
 
